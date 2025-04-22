@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flurper
 - 👀 I’m interested in games and tv shows!
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Kotlin and Unreal Engine.
 - 📫 How to reach me [redacted]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im him
